@@ -10,4 +10,10 @@ Minecraft Resource Pack
 - thinner armor and doors
 - hinges on trapdoors to clearly see orientation
 
-Based on the Minecraft vanilla textures, (c) Mojang, (c) Microsoft
+![](https://cdn.discordapp.com/attachments/732372904108359810/1144760222854946866/image.png)
+![](https://cdn.discordapp.com/attachments/732372904108359810/1144758450295935106/image.png)
+![](https://cdn.discordapp.com/attachments/732372904108359810/1144753146548199444/image.png)
+![](https://cdn.discordapp.com/attachments/732372904108359810/1144752951458533426/image.png)
+![](https://cdn.discordapp.com/attachments/732372904108359810/1144752690962894880/image.png)
+
+Based on the Minecraft: Java textures, (c) Mojang, (c) Microsoft
