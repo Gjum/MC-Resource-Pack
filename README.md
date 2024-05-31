@@ -16,4 +16,6 @@ Minecraft Resource Pack
 ![](https://cdn.discordapp.com/attachments/732372904108359810/1144752951458533426/image.png)
 ![](https://cdn.discordapp.com/attachments/732372904108359810/1144752690962894880/image.png)
 
+Licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) as applicable.
+
 Based on the Minecraft: Java textures, (c) Mojang, (c) Microsoft
